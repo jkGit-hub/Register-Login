@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login PHP MySQL</string>
+    <string name="prefLoginStatus">Login Status in the Check Box</string>
+</resources>
